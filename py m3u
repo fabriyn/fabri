@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0sn.png" group-title="PRV", Tigo Sports HD
+http://190.83.119.67:8000/play/a0sn/index.m3u8
